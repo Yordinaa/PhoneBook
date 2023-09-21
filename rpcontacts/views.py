@@ -62,6 +62,7 @@ class Window(QMainWindow):
     QTableView {
         background-color: #000033;
         color: white;
+        gridline-color: white;  
     }
     """
 )
